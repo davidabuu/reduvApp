@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Tlex must marry Ewaaa",
+      "attention": true,
+      "tech": "Tlex Ewaaaaaa",
+      "date": "2021-04-17T01:40:46.915Z"
+    },
+    {
+      "id": 3,
+      "message": "David has feelings for ......",
+      "date": "03-02-2021",
+      "attention": false,
+      "tech": "Saint Joe"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "Abu",
+      "lastname": "David"
+    },
+    {
+      "id": 2,
+      "firstname": "Liz",
+      "lastname": "DAve"
+    },
+    {
+      "id": 3,
+      "firstname": "Abuww",
+      "lastname": "David"
+    }
+  ]
+}
